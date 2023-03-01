@@ -1,0 +1,54 @@
+/*Comment trong code*/
+/*Chọn thẻ H1 trên web*/
+h1 {
+    color :red;
+}
+
+p {
+    color: green;
+}
+
+#special-heading {
+    color: orange;
+}
+
+.text-blue {
+    color: blue;
+}
+
+* {
+    color:chocolate;
+}
+
+div {
+    color: blueviolet;
+}
+
+.text-brown {
+    color: brown !important;
+}
+
+#my-div {
+    color: pink;
+}
+
+#test-text {
+    font-size: 40px;
+    font-style:oblique;
+    text-decoration: line-through; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform:lowercase;
+
+}
+
+#my-box {
+    font-size: 30px;
+    background-color: rgba(161, 127, 255, 0.819);
+    border-color:black;
+    width: 50%;
+    height: 170px;
+    border: 10px solid rgb(100, 105, 237);
+    border-radius: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
